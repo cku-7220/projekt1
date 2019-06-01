@@ -14,7 +14,7 @@ jeszcze coś
 
 visual studio v1
 
-
+edycja na githubie 14.43
 
 
 
